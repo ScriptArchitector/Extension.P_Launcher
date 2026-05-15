@@ -1,2 +1,1 @@
-Unofficial Minecraft Launcher
-(thats all,yeah lol)
+main.py is a whole code (excluding the ending i forgot it)
